@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @huynguyen93
-- 👀 I’m interested in websites
-- 🌱 I’m currently learning building websites
-- 💞️ I’m looking to collaborate on making websites
+- 👀 I like to make websites with PHP (Symfony) and ReactJS
+- 🌱 My side projects are listed at: https://khoahuy.com
+- 💞️ I’m open for collaboration on making websites
 - 📫 How to reach me: khoahuydotcom@gmail.com
 
 <!---
